@@ -4,7 +4,7 @@ Overview
 This is a 3D game developed in Unity as part of a game development competition. The game features a unique visual style inspired by *Severance*, combined with a thrilling race-against-time maze challenge. Players must navigate through a dynamic and evolving environment to escape before time runs out.
 
 Features
-- First-Person Exploration: Navigate through an environment designed to challenge perception and reflexes.
+- First-Person Explorations: Navigate through an environment designed to challenge perception and reflexes.
 - Race Against Time: Players must find the quickest route to escape before the clock runs out.
 - Maze-Like Level Design: Inspired by *Severance*, players must traverse complex pathways with increasing difficulty.
 - Atmospheric Visuals: Designed to evoke tension and urgency.
